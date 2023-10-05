@@ -13,5 +13,13 @@ This Python script sends periodic fitness reminder notifications on Windows 10 t
 1. **Clone the Repository**: Clone this repository to your local machine.
 
 ```
-   git clone https://github.com/your-repo/fitness-reminder-notifications.git
+   git clone https://github.com/shukur-alom/Fitness-Reminder-Notifications.git
+```
+2 **Install Dependencies**: Install the necessary Python libraries.
+```
+pip install win10toast
+```
+3 **Run the Script**: Execute the Python script to start sending fitness reminder notifications.
+```
+python fitness_reminder.py
 ```
