@@ -21,5 +21,5 @@ pip install win10toast
 ```
 3 **Run the Script**: Execute the Python script to start sending fitness reminder notifications.
 ```
-python fitness_reminder.py
+python Healthy Programmer.py
 ```
